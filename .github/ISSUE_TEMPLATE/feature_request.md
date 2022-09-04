@@ -2,7 +2,7 @@
 name: Feature request
 about: Ein neues Feature vorschlagen
 title: ''
-labels: Feature Request
+labels: 12 Feature Request, 17 Meldung wird geprüft
 assignees: ''
 
 ---

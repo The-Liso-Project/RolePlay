@@ -2,7 +2,7 @@
 name: Bugreport
 about: Für alle Bugreports
 title: ''
-labels: Bug Report
+labels: 11 Bug Report, 17 Meldung wird geprüft
 assignees: ''
 
 ---
