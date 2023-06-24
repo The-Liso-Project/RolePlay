@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Neue Funktion vorschlagen
 about: Ein neues Feature vorschlagen
 title: ''
 labels: 12 Feature Request, 17 Meldung wird geprüft
