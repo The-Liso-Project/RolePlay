@@ -1,5 +1,5 @@
 ---
-name: Änderungswunsch
+name: Eine Änderung vorschlagen
 about: Ein vorhandenes Feature ändern
 title: ''
 labels: 13 Änderungswunsch, 17 Meldung wird geprüft
