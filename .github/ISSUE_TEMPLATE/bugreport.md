@@ -1,5 +1,5 @@
 ---
-name: Bugreport
+name: Einen Fehler melden
 about: Für alle Bugreports
 title: ''
 labels: 11 Bug Report, 17 Meldung wird geprüft
